@@ -1,7 +1,7 @@
 <p align="center"> <img src= "http://imgur.com/d0WRXzE.jpg" /> </p>
 
 # The Great Maze Game
-An arcade style maze game! Dodge ghosts, collect coins, and avoid walls to propel yourself to victory. 
+A fun arcade-style maze game! Dodge ghosts, collect coins, and avoid walls to propel yourself to victory. 
 
 ## Setup
 <p align="center"> <img src= "http://imgur.com/kienrTe.jpg" /> </p>
