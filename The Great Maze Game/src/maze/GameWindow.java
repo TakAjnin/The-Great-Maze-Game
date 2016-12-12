@@ -128,7 +128,6 @@ public class GameWindow extends JFrame implements ActionListener {
            
             gameWindow.getContentPane().add(engine);
             gameWindow.setSize(windowWidth, windowHeight + 10);
-            System.out.println("set size to " +windowWidth +", " +windowHeight); //debug
             gameWindow.setResizable(true);
             gameWindow.setLocationRelativeTo(null);
             gameWindow.setVisible(true);

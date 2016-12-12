@@ -81,9 +81,9 @@ public class GameEngine extends Canvas {
             player.collidedWith(enemy3)) {
             if (!godMode) {
                 playerLives.removeLife();
-                System.out.print("You got eaten by a rektangle! ");
+                // System.out.print("You got eaten by a rektangle! "); // debug
                 if (playerLives.getNumLives() >= 0) {
-                    System.out.println("Lives remaining: " + playerLives.getNumLives());
+                    // System.out.println("Lives remaining: " + playerLives.getNumLives()); // debug
 
                     player.returnToStart();
                 } else {
@@ -95,9 +95,9 @@ public class GameEngine extends Canvas {
         if (theMaze.overlapsWith(player)) {
             if (!godMode) {
                 playerLives.removeLife();
-                System.out.print("You took a brick to the face. ");
+                // System.out.print("You took a brick to the face. "); // debug
                 if (playerLives.getNumLives() >= 0) {
-                    System.out.println("Lives remaining: " + playerLives.getNumLives());
+                    // System.out.println("Lives remaining: " + playerLives.getNumLives()); // debug
                 } else {
                     window.endGame("You took a brick to the face. ");
                 }
