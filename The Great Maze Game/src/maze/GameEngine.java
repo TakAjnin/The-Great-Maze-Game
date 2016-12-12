@@ -29,7 +29,7 @@ public class GameEngine extends Canvas {
     Coins theCoins = new Coins(20, 20, Color.YELLOW, 5);
     // A dice of this many sides is rolled when the player picks
     // up a coin. If a 1 is rolled, the player gains an extra life.
-    int extraLifeDice = 2;
+    int extraLifeDice = 3;
 
     boolean displayedInitialScreen = false;
     boolean displayedWinMessage = false;

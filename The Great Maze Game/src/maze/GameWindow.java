@@ -9,8 +9,8 @@ import java.awt.*;
 public class GameWindow extends JFrame implements ActionListener {
 	
     JFrame gameWindow = new JFrame("The Great Maze Game");
-    static int windowWidth = 606;
-    static int windowHeight = 680;
+    static int windowWidth = 618;
+    static int windowHeight = 687;
     JFrame startMenu = new JFrame("Welcome to the Maze");
     
     Button startButton = new Button("Enter the Maze, If you Dare!");
@@ -106,7 +106,9 @@ public class GameWindow extends JFrame implements ActionListener {
             JLabel line3 = new JLabel("The red rektangles will eat you and the walls are made of poision.");
             JLabel line4 = new JLabel("You must collect all the coins before you cross the finish line.");
             JLabel line5 = new JLabel("You have 3 lives, and remember to use the portals. Good Luck, and don't get rekt!");
-            JLabel line6 = new JLabel("Use the Arrow Keys to Move");
+            JLabel line6 = new JLabel("Use the Arrow Keys to Move. Use the spacebar to skip a turn. ");
+            JLabel line7 = new JLabel("Good luck.");
+            
             
             instructions.add(line1);
             instructions.add(line2);
@@ -114,6 +116,7 @@ public class GameWindow extends JFrame implements ActionListener {
             instructions.add(line4);
             instructions.add(line5);
             instructions.add(line6);
+            instructions.add(line7);
             
             startMenu.getContentPane().add(instructions, BorderLayout.CENTER);
            
