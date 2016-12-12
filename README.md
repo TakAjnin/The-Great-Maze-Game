@@ -39,6 +39,8 @@ We designed easy GUIs with instructions included to make playing the game as sim
 ### Rohit Pabbi - Photoshop Artist and Communications
 > **"**There were many interesting things I did which included setting up the screen to support the maze successfully, properly setting up the main character to move with the proper speed, designing custom graphics to enhance the quality of the game, and more. My only challenge was to get the maze to actually display on the screen, which took immense amount of effort.**"**
 
-## License
-
 ## Contact/Issues
+
+If you encounter an issue, please submit a report [on the issue page](https://github.com/TakAjnin/The-Great-Maze-Game/issues). We will respond to you as promptly as possible.
+
+© 2016 Maze Development Team, a subsidary of LaFollette Programming Courses Inc. No Rights Reserved.
