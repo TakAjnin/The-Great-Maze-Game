@@ -43,4 +43,4 @@ We designed easy GUIs with instructions included to make playing the game as sim
 
 If you encounter an issue, please submit a report [on the issue page](https://github.com/TakAjnin/The-Great-Maze-Game/issues). We will respond to you as promptly as possible.
 
-© 2016 Maze Development Team, a subsidary of LaFollette Programming Courses Inc. No Rights Reserved.
+© 2016 Maze Development Team, a subsidary of LaFollette Programming Courses Inc. Some Rights Reserved.
