@@ -29,7 +29,7 @@ This game was designed with accessible features and emergent strategy in mind. R
 #### User Experience
 We designed easy GUIs with instructions included to make playing the game as simple as possible. The game was also written to be self-contained; once the player wins or loses a game, a menu opens in the window prompting the user to play another game or exit. The game engine seamlessly jumps from one game to the next.
 #### Code Flexibility
-Code was continuously reformatted to make it intuitive and easy to understand. Method structures were designed to minimize redundant code blocks and maximize efficiency. In addition, the classes were created with effortless customizability in mind; adding more coins, lives, ghosts, or even mazes is as simple as tweaking a class variable.
+Code was continuously reformatted to make it intuitive and easy to understand. Method structures were designed to minimize redundant code blocks and maximize efficiency. The size, color, and location of any of the in-game objects can be reset easily. In addition, the classes were created with effortless customizability in mind; adding more coins, lives, ghosts, or even mazes is as simple as tweaking a class variable.
 
 ## Credits and Comments
 #### Samuel Hong - Lead Developer and Project Manager
