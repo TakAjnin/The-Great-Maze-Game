@@ -24,10 +24,12 @@ Easy, intuitive GUIs playing the game a snap.
 
 ## Design Paradigm
 <p align="center"> <img src= "http://imgur.com/5i6b1dg.jpg" /> </p>
-#### Game mechanics
+#### Game Mechanics
 This game was designed with accessible features and emergent strategy in mind. Randomly generated coin locations make every game unique. Unlabeled exit portals mean that players must discover where each portal leads, and use them cleverly to ensure they can complete the challenge. 
 #### User Experience
 We designed easy GUIs with instructions included to make playing the game as simple as possible. The game was also written to be self-contained; once the player wins or loses a game, a menu opens in the window prompting the user to play another game or exit. The game engine seamlessly jumps from one game to the next.
+#### Code Flexibility
+Code was continuously reformatted to make it intuitive and easy to understand. Method structures were designed to minimize redundant code blocks and maximize efficiency. In addition, the classes were created with effortless customizability in mind; adding more coins, lives, ghosts, or even mazes is as simple as tweaking a class variable.
 
 ## Credits and Comments
 #### Samuel Hong - Lead Developer and Project Manager
