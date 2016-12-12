@@ -5,7 +5,7 @@ An arcade style maze game! Dodge ghosts, collect coins, and avoid walls to prope
 
 ## Setup
 <p align="center"> <img src= "http://imgur.com/kienrTe.jpg" /> </p>
-On the [project page](https://github.com/TakAjnin/The-Great-Maze-Game), click `Clone or Download` and save the .ZIP file. Extract it to any folder on your computer. If you are using an Integrated Development Environment (IDE), use the Import feature to move the project to your workspace. Be sure to import only the folder titled `The Great Maze Game`, which is located in `The-Great-Maze-Game-master`. To do this in Eclipse, select `File > Import > General > Existing project into workspace`.
+On the [project page](https://github.com/TakAjnin/The-Great-Maze-Game), click ![GitHub Logo](http://imgur.com/ORRfQqT.png) and save the .ZIP file. Extract it to any folder on your computer. If you are using an Integrated Development Environment (IDE), use the Import feature to move the project to your workspace. Be sure to import only the folder titled `The Great Maze Game`, which is located in `The-Great-Maze-Game-master`. To do this in Eclipse, select `File > Import > General > Existing project into workspace`.
 
 ## How to Play
 <p align="center"> <img src= "http://imgur.com/RgehIR3.jpg" /> </p>
