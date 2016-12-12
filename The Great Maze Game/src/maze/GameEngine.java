@@ -8,7 +8,7 @@ public class GameEngine extends Canvas {
 
     Character player = new Character(330, 550, 20, 20, Color.GREEN, 15);
     int initialNumLives = 3;
-    int moves = 0;
+    int moves = 1;
     boolean playerWon = false;
 
     Lives playerLives = new Lives(10, 610, 40, 20, Color.GREEN, 10, initialNumLives);
