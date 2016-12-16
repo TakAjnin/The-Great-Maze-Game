@@ -20,7 +20,7 @@ Comments and code organization make it easy to understand and modify.
 Make the game your own by easily changing class variables.
 
 #### ![GitHub Logo](http://imgur.com/AKGVP5x.png) User Friendly Design
-Easy, intuitive GUIs playing the game a snap.
+Easy, intuitive GUIs make playing the game a snap.
 
 ## Design Paradigm
 <p align="center"> <img src= "http://imgur.com/5i6b1dg.jpg" /> </p>
