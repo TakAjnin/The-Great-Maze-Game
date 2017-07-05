@@ -6,7 +6,7 @@ A fun arcade-style maze game! Dodge ghosts, collect coins, and avoid walls to pr
 
 ## Setup
 <p align="center"> <img src= "http://imgur.com/kienrTe.jpg" /> </p>
-The Great Maze Game runs on Java. If you do not have Java installed, download it [here](https://java.com/en/download/).
+The Great Maze Game runs on Java. If you do not have Java installed, download it [here](https://java.com/en/download).
 
 On the [project page](https://github.com/TakAjnin/The-Great-Maze-Game), click ![GitHub Logo](http://imgur.com/ORRfQqT.png) and save the .ZIP file. Extract it to any folder on your computer. If you are using an Integrated Development Environment (IDE), use the Import feature to move the project to your workspace. Be sure to import only the folder titled `The Great Maze Game`, which is located in `The-Great-Maze-Game-master`. To do this in Eclipse, select `File > Import > General > Existing Projects into Workspace`.
 
@@ -29,8 +29,10 @@ Easy, intuitive GUIs make playing the game a snap.
 <p align="center"> <img src= "http://imgur.com/5i6b1dg.jpg" /> </p>
 #### Game Mechanics
 This game was designed with accessible features and emergent strategy in mind. Randomly generated coin locations make every game unique. Unlabeled exit portals mean that players must discover where each portal leads, and use them cleverly to ensure they can complete the challenge. 
+
 #### User Experience
 We designed easy GUIs with instructions included to make playing the game as simple as possible. The game was also written to be self-contained; once the player wins or loses a game, a menu opens in the window prompting the user to play another game or exit. The game engine seamlessly jumps from one game to the next.
+
 #### Code Flexibility
 Code was continuously reformatted to make it intuitive and easy to understand. Method structures were designed to minimize redundant code blocks and maximize efficiency. The size, color, and location of any of the in-game objects can be reset easily. In addition, the classes were created with effortless customizability in mind; adding more coins, lives, ghosts, or even mazes is as simple as tweaking a class variable.
 
