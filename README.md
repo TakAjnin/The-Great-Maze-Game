@@ -3,6 +3,7 @@
 # The Great Maze Game
 A fun arcade-style maze game! Dodge ghosts, collect coins, and avoid walls to propel yourself to victory. 
 
+
 ## Setup
 <p align="center"> <img src= "http://imgur.com/kienrTe.jpg" /> </p>
 The Great Maze Game runs on Java. If you do not have Java installed, download it [here](https://java.com/en/download/).
@@ -34,13 +35,13 @@ We designed easy GUIs with instructions included to make playing the game as sim
 Code was continuously reformatted to make it intuitive and easy to understand. Method structures were designed to minimize redundant code blocks and maximize efficiency. The size, color, and location of any of the in-game objects can be reset easily. In addition, the classes were created with effortless customizability in mind; adding more coins, lives, ghosts, or even mazes is as simple as tweaking a class variable.
 
 ## Credits and Comments
-#### Samuel Hong - Lead Developer and Project Manager
+#### Sam - Lead Developer and Project Manager
 >**"**Constructing The Great Maze Game was a challenging yet invaluable experience. As a novice programmer, I was exposed to many new concepts- classes, logs, markup languages, and several-hour-long bugfixing sessions. Writing classes from scratch was quite difficult at first- for originality's sake, I refrained from using Java's pre-built classes- instead, I decided to build the project with custom classes. I think this greatly enhanced me and my group members' learning process. In addition, I taught myself the basics of Git, a version control system that I used to manage the project.**"**
 
-#### Matt Vanderveer - Maze and GUI Designer
+#### Matt - Maze and GUI Designer
 >**"**The most difficult aspects were setting collisions with the maze walls and configuring the GUIs. We were all pretty new to GUI programming, so getting the menu and endgame screen to appear the right way, with the correct prompts and buttons was definitely the most difficult aspect.**"**
 
-#### Rohit Pabbi - Photoshop Artist and Communications
+#### Ronnie - Photoshop Artist and Communications
 > **"**There were many interesting things I did which included setting up the screen to support the maze successfully, properly setting up the main character to move with the proper speed, designing custom graphics to enhance the quality of the game, and more. My only challenge was to get the maze to actually display on the screen, which took immense amount of effort.**"**
 
 ## Contact/Issues
