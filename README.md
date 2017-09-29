@@ -27,6 +27,7 @@ Easy, intuitive GUIs make playing the game a snap.
 
 ## Design Paradigm
 <p align="center"> <img src= "http://imgur.com/5i6b1dg.jpg" /> </p>
+
 #### Game Mechanics
 This game was designed with accessible features and emergent strategy in mind. Randomly generated coin locations make every game unique. Unlabeled exit portals mean that players must discover where each portal leads, and use them cleverly to ensure they can complete the challenge. 
 
