@@ -38,7 +38,7 @@ We designed easy GUIs with instructions included to make playing the game as sim
 Code was continuously reformatted to make it intuitive and easy to understand. Method structures were designed to minimize redundant code blocks and maximize efficiency. The size, color, and location of any of the in-game objects can be reset easily. In addition, the classes were created with effortless customizability in mind; adding more coins, lives, ghosts, or even mazes is as simple as tweaking a class variable.
 
 ## Credits and Comments
-#### Sam - Lead Developer and Project Manager
+#### Sam - Hacker and Project Manager
 >**"**Constructing The Great Maze Game was a challenging yet invaluable experience. As a novice programmer, I was exposed to many new concepts- classes, logs, markup languages, and several-hour-long bugfixing sessions. Writing classes from scratch was quite difficult at first- for originality's sake, I refrained from using Java's pre-built classes- instead, I decided to build the project with custom classes. I think this greatly enhanced me and my group members' learning process. In addition, I taught myself the basics of Git, a version control system that I used to manage the project.**"**
 
 #### Matt - Maze and GUI Designer
